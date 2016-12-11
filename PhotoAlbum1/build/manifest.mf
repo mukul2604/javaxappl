@@ -1,0 +1,25 @@
+MIDlet-1: PhotoAlbum,, example.photoalbum.PhotoAlbum
+MIDlet-Permissions: javax.microedition.io.Connector.http
+PhotoTitle-4: PNG
+PhotoImage-5: /example/photoalbum/images/LightHouse-
+PhotoImage-4: /example/photoalbum/images/leaf.png
+MIDlet-Description: Photoalbum of images
+PhotoTitle-1: JPEG Color
+MIDlet-Name: PhotoAlbum
+PhotoImage-6: /example/photoalbum/images/jc_frame_
+PhotoTitle-5: Flashing LightHouse
+PhotoImage-3: /example/photoalbum/images/leafpg.jpg
+PhotoTitle-2: JPEG BW
+PhotoImage-7: /icons/Duke.png
+MIDlet-Vendor: Sun Microsystems, Inc.
+PhotoTitle-6: Java Fly By
+PhotoImage-2: /example/photoalbum/images/leafbw.jpg
+MIDlet-Data-Size: 256
+PhotoImage-1: /example/photoalbum/images/leaf.jpg
+PhotoTitle-3: JPEG Progressive
+PhotoImage-8: http://libpng.sourceforge.net/pngbar.png
+MIDlet-Version: 2.0
+PhotoTitle-8: PNG image
+PhotoTitle-7: Duke
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
